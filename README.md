@@ -14,18 +14,18 @@ Feel free to explore the projects and get in touch if you have any questions or 
 
 ### Tech Stack
 
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" /> &nbsp;
-<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" /> &nbsp;
-<br><br>
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img align="left" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+<br><br><br>
 
 ### Github Statistic
 
